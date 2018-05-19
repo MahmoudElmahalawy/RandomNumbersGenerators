@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1524432427 source:c:\users\salama\desktop\sec_random_number_2\generators\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"withmann_generator.h"
+	"MRG_generator.h"
+	"MacLaren.h"
+
+1524428219 c:\users\salama\desktop\sec_random_number_2\generators\withmann_generator.h
+
+1524428263 source:c:\users\salama\desktop\sec_random_number_2\generators\withmann_generator.cpp
+
+1524422420 source:c:\users\salama\desktop\sec_random_number_2\generators\mrg_generator.cpp
+	"MRG_seeds.h"
+
+1524431848 c:\users\salama\desktop\sec_random_number_2\generators\mrg_seeds.h
+
+1524382750 c:\users\salama\desktop\sec_random_number_2\generators\mrg_generator.h
+
+1524431734 c:\users\salama\desktop\sec_random_number_2\generators\maclaren.h
+
+1524431848 source:c:\users\salama\desktop\sec_random_number_2\generators\maclaren.cpp
+	"MRG_seeds.h"
+	"MRG_generator.h"
+	"withmann_generator.h"
+	"MacLaren.h"
+
+1524432486 source:c:\users\salama\desktop\sec_random_number\generators\maclaren.cpp
+	"MRG_generator.h"
+	"withmann_generator.h"
+	"MacLaren.h"
+	<iostream>
+
+1524382750 c:\users\salama\desktop\sec_random_number\generators\mrg_generator.h
+
+1524428219 c:\users\salama\desktop\sec_random_number\generators\withmann_generator.h
+
+1524431734 c:\users\salama\desktop\sec_random_number\generators\maclaren.h
+
+1524432427 source:c:\users\salama\desktop\sec_random_number\generators\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"withmann_generator.h"
+	"MRG_generator.h"
+	"MacLaren.h"
+
+1524422420 source:c:\users\salama\desktop\sec_random_number\generators\mrg_generator.cpp
+	"MRG_seeds.h"
+
+1524431848 c:\users\salama\desktop\sec_random_number\generators\mrg_seeds.h
+
+1524428263 source:c:\users\salama\desktop\sec_random_number\generators\withmann_generator.cpp
+
